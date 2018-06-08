@@ -170,7 +170,7 @@ min-height: 790px;
 	display:block;
     text-transform: capitalize;
     /* margin: 13px 10px 0px 25px; */
-    background: #f8b239;
+    background: #80ff000; /* logo background*/
     padding: 40px 30px 40px;
     position: absolute;
     top: 0;
@@ -191,7 +191,7 @@ i.fa.fa-graduation-cap {
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
     color: #fff;
-    background-color: #f8b239;
+    background-color: #80ff000;
 }
 .navbar-brand {
     height: initial;
@@ -840,7 +840,7 @@ a.callbacks_nav.callbacks3_nav.next{
 /*-- //about us--*/
 /*-- Stats --*/
 .stats-agileits {
-    background: url(../images/counter.jpg)no-repeat;
+    background: url(../images/counter1.jpg)no-repeat;
 	background-size:cover;
 	background-attachment:fixed;
 }
