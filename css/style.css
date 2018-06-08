@@ -1138,24 +1138,6 @@ figure img {
 	position: relative;
 }
 /*-- Nav --*/
-.nbs-flexisel-nav-left, .nbs-flexisel-nav-right {
-    width: 36px;
-    height: 36px;
-    position: absolute;
-    cursor: pointer;
-    z-index: 100;
-    border: 1px solid #0177b5;
-}
-.nbs-flexisel-nav-left {
-    left: 46.5%;
-    top: 109% !important;
-    background:#000 url(../images/themes.png) no-repeat 10px 10px;
-}
-.nbs-flexisel-nav-right {
-    right: 46.5%;
-    top: 109% !important;
-    background:#000 url(../images/themes1.png) no-repeat 11px 11px;
-}
 .laptop {
     background: #0177b5;
     padding: 2em 2em;
@@ -2638,9 +2620,6 @@ a.w3_agile_vimeo:hover{
 		float:left;
 		width:67%;
 	}
-	.nbs-flexisel-nav-left {
-		left: 42.5%;
-	}
 	.name-w3ls {
 		margin-top: 1.5em;
 	}
@@ -2649,15 +2628,9 @@ a.w3_agile_vimeo:hover{
 		margin-top: 0.6em;
 		letter-spacing: 0.88px;
 	}
-	.flex-slider {
-		margin: 0px auto 58px;
-	}
 	.laptop {
 		padding: 2em 2em;
 		margin: 0 50px;
-	}
-	.nbs-flexisel-nav-right {
-		right: 44.5%;
 	}
 	ul.w3_address {
 		width: 80%;
@@ -2784,7 +2757,7 @@ a.w3_agile_vimeo:hover{
 		font-size: 28px;
 		margin-bottom: 1.2em;
 	}
-	.events-agileits-w3layouts, .testimonials, .stats-agileits, .about-agileits, .team, .portfolio, .contact-w3ls, .inner-padding {
+	.events-agileits-w3layouts, .testimonials, .stats-agileits, .about-agileits, .team, .portfolio, .contact-w3ls, .inner-padding
 		padding: 2.3em 0em;
 	}
 	.heading-agileinfo span:after {
@@ -3516,12 +3489,6 @@ a.w3_agile_vimeo:hover{
 	}
 	.contact-w3ls:before {
 		border-width: 0 290px 29px 0;
-	}
-	.nbs-flexisel-nav-left {
-		left: 36.5%;
-	}
-	.nbs-flexisel-nav-right {
-		right: 36.5%;
 	}
 	.agile_team_grids {
 		width: 96%;
