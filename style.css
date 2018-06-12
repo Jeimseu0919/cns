@@ -1,9 +1,3 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
 html, body{
 	margin:0;
 	font-size: 100%;
@@ -45,7 +39,7 @@ label{
 }
 /*--banner-slider--*/
 .banner{
-background: url(../images/bann.jpg) no-repeat 0px 0px;
+background: url(../images/banner.jpg) no-repeat 0px 0px;
 background-size:cover;
 -webkit-background-size: cover;
 -o-background-size: cover;
@@ -1186,7 +1180,7 @@ figure img {
 /*--//testimonials--*/
 /*--inner pages--*/
 	.inner-banner-w3l{
-		background: url(../images/inner-bann.jpg) no-repeat 0px 0px;
+		background: url(../images/banner.jpg) no-repeat 0px 0px;
 		background-size: cover;
 		-webkit-background-size: cover;
 		-o-background-size: cover;
@@ -1203,7 +1197,7 @@ figure img {
     margin: 0 auto;
 }
 .about-agile {
-    background: url(../images/ab1.jpg)no-repeat;
+    background: url(../images/mock1.jpg)no-repeat;
     background-attachment: fixed;
     background-size: cover;
 	-webkit-background-size: cover;
